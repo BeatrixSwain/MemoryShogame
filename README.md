@@ -15,7 +15,7 @@ El proyecto se divide en:
 ![alt text](https://i.gyazo.com/f8c61dbd8efb70a0fdc76a215462800b.jpg)
 
 
-![alt text](https://i.gyazo.com/3e9e0daf56c33a2028d75d74d5606f22.jpg)
+![alt text](https://i.gyazo.com/ef60cbdb966e918d4924b55f888ac760.jpg)
 
 
 ![alt text](https://i.gyazo.com/ce3c107d9c2ab286115375cb82cf1bec.jpg)
