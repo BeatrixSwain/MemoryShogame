@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    background-image: url(../imgs/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -300px;
+    background-position-x: center;
+    display: flex;
+}
+
+.principal {
+    min-width: 500px;
+    min-height: 200px;
+    margin: 7% auto;
+    margin-bottom: 0px !important;
+    width: 60%;
+    width: 60%;
+    max-width: 700px;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.grid .card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.btn-win {
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background: #a1c527;
+    /* margin-bottom: 20px; */
+    float: right;
+}
+
+.btn-win:hover {
+    border: 1px solid #a1c527;
+    background: white;
+    color: #a1c527
+}
